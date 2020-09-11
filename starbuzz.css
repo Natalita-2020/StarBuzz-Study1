@@ -23,11 +23,6 @@ header.top img#headerSlogan {
 	float: right;
 }
 
-#award {
-position: absolute;
-top: 30px;
-left: 365px;
-}
 /* nav new in blog */
 nav {
     background-color: #efe5d0;
@@ -42,7 +37,11 @@ nav ul li {
 	display: inline;
 	padding: 5px 10px 5px 10px;
 }
-
+#award {
+position: absolute;
+top: 30px;
+left: 365px;
+}
 
 div#tableContainer {
 	display: table;
