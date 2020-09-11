@@ -23,7 +23,7 @@ header.top img#headerSlogan {
 	float: right;
 }
 
-award {
+#award {
 position: absolute;
 top: 30px;
 left: 365px;
