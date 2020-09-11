@@ -77,7 +77,14 @@ aside {
   padding:          15px;
   vertical-align: top;
 }
-
+#coupon {
+	position: fixed;
+	top: 350px;
+	left: 0px;
+}
+#coupon a, img {
+	border: none;
+}
 footer {
   background-color: #675c47;
   color:            #efe5d0;
