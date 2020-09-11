@@ -23,7 +23,11 @@ header.top img#headerSlogan {
 	float: right;
 }
 
-
+#award {
+position: absolute;
+top: 30px;
+left: 365px;
+}
 /* nav new in blog */
 nav {
     background-color: #efe5d0;
